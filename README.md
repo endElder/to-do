@@ -4,12 +4,12 @@
 git clone https://github.com/endElder/to-do.git
 ```
 
-###Open
+### Open Folder
 ```
 cd to-do
 ```
 
-###Open
+### Open in Termial
 ```
 open index.html```
 
