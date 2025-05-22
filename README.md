@@ -1,6 +1,15 @@
-Install:
-git clone https://github.com/endElder/to-do.git
+### Clone:
 
+```
+git clone https://github.com/endElder/to-do.git
+```
+
+###Open
+```
 cd to-do
-open index.html
+```
+
+###Open
+```
+open index.html```
 
