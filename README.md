@@ -11,5 +11,6 @@ cd to-do
 
 ### Open in Termial
 ```
-open index.html```
+open index.html
+```
 
